@@ -1,0 +1,4 @@
+name,id,email,course,marks,attendance
+Ali Khan,ST101,ali@example.com,Computer Science,88,92%
+Sara Ahmed,ST102,sara@example.com,Software Engineering,91,95%
+Ahmed Raza,ST103,ahmed@example.com,Information Technology,79,85%
